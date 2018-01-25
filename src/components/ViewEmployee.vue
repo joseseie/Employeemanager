@@ -46,7 +46,7 @@
             })
         },
         wath: {
-            '$route': 'fetcData'
+            '$route': 'fetchData'
         },
         methods: {
             fetchData () {
