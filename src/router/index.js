@@ -25,7 +25,7 @@ export default new Router({
           component: EditEmployee
       },
       {
-          path: '/:empleyee_id',
+          path: '/:employee_id',
           name: 'view-employee',
           component: ViewEmployee
       },
